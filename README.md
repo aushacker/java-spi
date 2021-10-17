@@ -14,7 +14,7 @@ module decoder2of4(
     // implementation goes here
 
 endmodule
-<figcaption>Fig 1 - Module Template</figcaption>
 ~~~
+<figcaption>Fig 1 - Module Template</figcaption>
 
 
